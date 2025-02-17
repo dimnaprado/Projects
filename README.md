@@ -1,2 +1,8 @@
-# projects
-Data Science, Machine Learning, and Predictive Analytics.
+# Project
+Astronomy Data Analysis & Exoplanet Detection
+Machine Learning & Classification Models
+Data Extraction & Preprocessing
+Feature Engineering & Optimization
+Predictive Analytics
+Data Visualization
+Python, PyTorch, Scikit-Learn
